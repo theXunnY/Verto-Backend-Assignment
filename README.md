@@ -26,7 +26,7 @@
 
 ## 📖 About
 
-This project is a comprehensive **RESTful backend API** for an **Inventory Management System**, developed as part of the ASE Challenge by Verto. The system enables complete product lifecycle management including creation, modification, stock management, and low-stock monitoring.
+This project is a comprehensive **RESTful backend API** for an **Product Management System**, developed as part of the ASE Challenge by Verto. The system enables complete product lifecycle management including creation, modification, stock management, and low-stock monitoring.
 
 The application follows modern Spring Boot practices with clean architecture, proper exception handling, and efficient data transfer objects (DTOs) for API communication.
 
@@ -338,5 +338,6 @@ This project is part of the ASE Challenge by Verto. All rights reserved.
 ---
 
 **Happy Coding! 🚀**
+
 
 
