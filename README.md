@@ -337,11 +337,6 @@ This project is part of the ASE Challenge by Verto. All rights reserved.
 
 ---
 
-## 📞 Support
-
-For any questions or issues, please open an issue in the GitHub repository or contact the development team.
-
----
-
 **Happy Coding! 🚀**
+
 
